@@ -1,0 +1,226 @@
+/*Global*/
+.jumbotron{
+	background-color: #FFFFFF;
+	font-family: Lato;
+}
+.navbar{
+	background-color: #FFFFFF;
+	height: 85px;
+}
+/*Global*/
+/*<!-- =========================================== KOREKSI SELESAI ================================================= -->*/
+
+/*Navbar*/
+	/*Header 2*/
+	#head2{
+		top: -20px; 
+		height: 50px; 
+		box-shadow: 0px 1px 4px 2px rgba(0, 0, 0, 0.15);
+	}
+	/*Header 2*/
+	/*Navbar 2*/
+	#nav2{
+		right: 76.46%;
+		top: 10px;
+		bottom: 53.55%;
+		font-size: 18px;
+		font-style: normal;
+		font-weight: bold;
+	}
+	/*Navbar 2*/
+	/*Tulisan header 2*/
+	.navbar-fixed-top .navbar .container .row div a {
+		line-height: 22px;
+		letter-spacing: 0.04em;
+		color: #413F3F;
+	}
+	/*Tulisan header 2*/
+	/*Gambar*/
+	.navbar .container .row .col-md-3 {
+		position: absolute;
+		left: 10.9%;
+		right: 76.46%;
+		top: 18px;
+		bottom: 53.55%;
+	}
+	/*Gambar*/
+	/*Search*/
+	.navbar .container .row .col-md-6 .form-inline input{
+		border: 1px solid #E0E0E0;
+		box-sizing: border-box;
+		box-shadow: 0px 1px 4px 1px rgba(0, 0, 0, 0.1);
+		border-radius: 3px;
+		width: 460px;
+		height: 59px;
+		position: absolute;
+		left: 350px;
+		top: 10px;
+	}
+	/*Search*/
+	/*Login*/
+	.navbar .container .row .col-md-2 button{
+		background: rgba(112, 20, 169, 0.15);
+		width: 110px;
+		height: 45px;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 19px;
+		color: #CD7BFF;
+		position: absolute;
+		left: 300px;
+		top: 20px;
+	}
+	/*Login*/
+/*Navbar*/
+
+/*Bagian Gambar*/
+h5{
+	width: 125px;
+height: 17px;
+left: 968px;
+top: 196px;
+}
+	/*Border*/
+	#bor{
+		border: 1px solid #F2F2F2;
+		box-sizing: border-box;
+		border-radius: 3px;
+	}
+	/*Border*/
+	/*Penjelasan Informasi*/
+	.container .jumbotron .row .col-md-4 p{
+		font-size: 12px; 
+		line-height: 14px;
+		letter-spacing: 0.04em;
+
+	}
+	/*Penjelasan Informasi*/
+	/*Isi Tabel*/
+	.container .jumbotron .row .col-md-4 .table td{
+		font-size: 12px; 
+		line-height: 14px;
+		letter-spacing: 0.04em;
+	}
+	/*Isi Tabel*/
+	/*Button*/
+	.container .jumbotron .row .col-md-4 button{
+		background-color: #7014A9; 
+		color: #FDFBFF; 
+		width: 53px; 
+		height: 26px;
+		font-style: normal; 
+		font-weight: bold; 
+		font-size: 11px;
+	}
+	/*Button*/
+/*Bagian Gambar*/
+
+/*Notifikasi*/
+	/*Bingkainya*/
+	#notif{
+		background-color: #EADCF2; 
+		width: 1050px; 
+		height: 66px; 
+		background: #EADCF2; 
+		border: 1px solid #EEEEEE; 
+		box-sizing: border-box; border-radius: 3px;
+	}
+	/*Bingkainya*/
+	/*Tulisannya*/
+	#notif2{
+		position: absolute; 
+		left: 150px; 
+		top: 605px;
+		font-size: 14px; 
+		color: #000000;
+	}
+	/*Tulisannya*/
+/*Notifikasi*/
+
+/*Bagian Virtual Tour*/
+	/*Border Virtual*/
+	.container .jumbotron .row .col-lg-6 {
+		border: 1px solid #EEEEEE;
+		box-sizing: border-box;
+		border-radius: 3px;
+	}
+	/*Border Virtual*/
+	/*Font Judul*/
+	.container .jumbotron .row .col-lg-6 h1{
+		font-size: 30px;
+		font-weight: bold;
+	}
+	/*Font Judul*/
+	/*Font Kalimat*/
+	.container .jumbotron .row .col-lg-6 p {
+		font-size: 14px; 
+		color: #505050;
+		line-height: 191.5%;
+		letter-spacing: 0.04em;
+	}
+	/*Font Kalimat*/
+	/*Font Share*/
+	.container .jumbotron .row .col-lg-6 .row .col-md-6 .col-md-5 a{
+		font-size: 14px;
+		color: #464444;
+	}
+	/*Font Share*/
+	/*Maps*/
+	iframe{
+		width: 490px;
+		height: 288px;
+		left: 182px;
+		top: 1559px;
+	}
+	/*Maps*/
+	/*Button Tiket*/
+	.container .jumbotron .row .col-lg-6 .btn-secondary{
+		font-weight: bold;
+		color: #CD7BFF;
+		font-size: 19px;
+		line-height: 23px;
+		letter-spacing: 0.04em;
+		padding: 10px 24px;
+		width: 236px;
+		height: 47px;
+		left: 772px;
+		top: 772px;
+	}
+	/*Button Tiket*/
+/*Bagian Virtual Tour*/
+
+/*Bagian pra Foother*/
+	/*Font Judul*/
+	h3{
+		font-size: 20px;
+		font-family: Lato;
+		line-height: 24px;
+		letter-spacing: 0.04em;
+		font-weight: bold;
+	}
+	/*Font Judul*/
+	/*Search Email*/
+	.container .jumbotron .row .col-md-4 input{
+		border: 1px solid #E0E0E0;
+		box-sizing: border-box;
+		box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.15);
+		width: 292px;
+		height: 49px;
+	}
+	/*Search Email*/
+	/*Font Perusahaan*/
+	.container .jumbotron .row .col-md-2 a{
+		color: #373737;
+		line-height: 191.5%;
+		letter-spacing: 0.04em;
+	}
+	/*Font Perusahaan*/
+	/*Font Bantuan*/
+	.container .jumbotron .row .col-md-3 a{
+		color: #373737;
+		line-height: 191.5%;
+		letter-spacing: 0.04em;
+	}
+	/*Font Bantuan*/
+/*Bagian pra Foother*/
+/*<!-- =========================================== KOREKSI SELESAI ================================================= -->
